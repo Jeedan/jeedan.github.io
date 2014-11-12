@@ -1,0 +1,70 @@
+.nav a {
+    color: #5a5a5a;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-color: #000000;
+   /* background-image:url(''); */
+    height: 256px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    position: relative;
+    top:50px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.programming-projects{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.programming-projects h2{
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.programming-projects p{
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.footer_contacts {
+    background-color: #f7f7f7;
+}
+
+.footer_contacts h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.footer_contacts p {
+    font-size: 14px;
+}
+
+.footer_contacts a {
+    color: #00b0ff;
+}
