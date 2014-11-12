@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-    background-color: #000000;
+    background-color: #2a2a2a;
    /* background-image:url(''); */
     height: 256px;
     background-repeat: no-repeat;
@@ -33,6 +33,10 @@
 .jumbotron p {
     font-size: 20px;
     color: #fff;
+}
+
+.jumbotron a {
+    font-family: 'Shift', sans-serif;
 }
 
 .programming-projects{
