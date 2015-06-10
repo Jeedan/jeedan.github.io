@@ -13,14 +13,35 @@
 .jumbotron {
     background-color: #2a2a2a;
    /* background-image:url(''); */
-    height: 256px;
+    height: 128px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.thumbnail {
+
+    background-color: #efefef;
+    height: 190px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.thumbnail a img{
+    height: 190px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.project-description .thumbnail 
+{
+    height: 190px;
+    width: 700px;
+    margin-bottom: 20px;
+}
+
 .jumbotron .container {
     position: relative;
-    top:50px;
+    top:-25px;
 }
 
 .jumbotron h1 {
@@ -71,4 +92,8 @@
 
 .footer_contacts a {
     color: #00b0ff;
+}
+
+.about-intro p {
+    font-size: 18px;
 }
